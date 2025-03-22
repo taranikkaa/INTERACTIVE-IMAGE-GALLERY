@@ -1,6 +1,6 @@
 ## INTERACTIVE IMAGE GALLERY
-# NAME:DHARSHINI K
-# REG NO: 212223220117
+# NAME: TARANIKKA A
+# REG NO: 212223220115
 # DATE: 22/03/25
  
  # PROGRAM:
@@ -23,20 +23,20 @@
         <button id="prevBtn">❮</button>
         <div class="gallery">
             <div class="image">
-                <img src="c:\Users\admin\Desktop\IMAGE 1.jpg" alt="TREES">
-                <div class="TREES">TREES</div>
+                <img src="c:\Users\admin\Desktop\1.jpg" alt="TREES">
+                <div class="TREES">SKY</div>
             </div>
             <div class="image">
-                <img src="c:\Users\admin\Desktop\IMAGE 2.jpg" alt="MOON">
+                <img src="c:\Users\admin\Desktop\2.jpg" alt="MOON">
                 <div class="MOON">MOON</div>
             </div>
             <div class="image">
-                <img src="c:\Users\admin\Desktop\IMAGE 3.jpg" alt="SKY">
-                <div class="SKY">SKY</div>
+                <img src="c:\Users\admin\Desktop\3.jpg" alt="SKY">
+                <div class="SKY">PLANTS</div>
             </div>
             <div class="image">
-                <img src="c:\Users\admin\Desktop\IMAGE 4.jpg" alt="FLOWER">
-                <div class="FLOWER">FLOWER</div>
+                <img src="c:\Users\admin\Desktop\4.jpg" alt="FLOWER">
+                <div class="FLOWER">DARK SKY</div>
             </div>
             <div class="image">
                 <img src="c:\Users\admin\Desktop\IMAGE 4.jpg" alt="SUNSET">
@@ -47,12 +47,13 @@
     </div>
 
     <footer>
-        Created by Dharshini K | Reg No: 212223220017
+        Created by Taranikka A | Reg No: 212223220115
     </footer>
 
     <script src="script.js"></script>
 </body>
 </html>
+
 ```
 ### style.css:
 ```
@@ -161,8 +162,8 @@ prevBtn.addEventListener("click", () => {
 ```
 
 ### OUTPUT:
+![Screenshot 2025-03-22 144230](https://github.com/user-attachments/assets/fde12413-7194-4d39-b269-31314d2dd6eb)
 
-![Screenshot 2025-03-22 134912](https://github.com/user-attachments/assets/2b65cab6-d766-4f0a-b438-65cf472bec7d)
 
 
 
